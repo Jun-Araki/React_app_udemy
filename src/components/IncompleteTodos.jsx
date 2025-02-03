@@ -1,7 +1,7 @@
 const style = {
   border: "2px solid #aacfd1",
   width: "400px",
-  minHeight: "200px",
+  minHeight: "180px",
   padding: "8px",
   margin: "8px",
   borderRadius: "8px",
