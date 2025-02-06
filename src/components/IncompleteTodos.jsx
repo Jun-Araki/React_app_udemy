@@ -1,5 +1,5 @@
 const style = {
-  border: "2px solid #aacfd1",
+  border: "3px solid #aacfd1",
   width: "400px",
   minHeight: "180px",
   padding: "8px",
