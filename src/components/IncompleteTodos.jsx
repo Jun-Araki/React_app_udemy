@@ -4,7 +4,7 @@ const style = {
   minHeight: "180px",
   padding: "8px",
   margin: "8px",
-  borderRadius: "8px",
+  borderRadius: "7px",
 };
 
 export const IncompleteTodos = (props) => {
